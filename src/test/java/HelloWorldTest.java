@@ -5,7 +5,7 @@ import org.junit.Test;
 /**
  * DO NOT change anything within this test file. All code should be written in src/main/java/Lab.java
  */
-public class "Hello, World" {
+public class HelloWorldTest {
     Lab hw = new Lab();
 
     /**
